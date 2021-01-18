@@ -10,7 +10,7 @@ https://books.apple.com/us/book/id1511183970
 Click on images to view them in a larger size!
 
 ### Emoji Dictionary
-###### An emoji dictionary that allos users to edit existing entries and add their own emojis with descriptions.
+###### An emoji dictionary that allows users to edit existing entries and add their own emojis with descriptions.
 ###### Intended as an exercise in using the UITableView class to efficiently display large amounts of information and managing dymanic lists of data. Later iterations of the app included adding custom cells, using static table views to display forms, and allowing the user to swipe to delete cells. The final changes to the app were an exercise in persiting data. This included encoding and decoding with the Codable protocol, writing data to a file with sandboxing and the Documents Directory, and using methods on Data to persist information between app launches. 
 
 <img src="https://user-images.githubusercontent.com/55996049/104946497-24a2b780-5988-11eb-8d0a-e60caf6a6e55.png" width="200">
