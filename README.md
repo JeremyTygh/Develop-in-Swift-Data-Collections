@@ -6,6 +6,7 @@ Here is a link to the book I am working with:
 https://books.apple.com/us/book/id1511183970
 
 ## Below are screenshots of some projects running on a simulated iPhone 12 
+### Projects will be added to this repository as I complete them!
 Click on images to view them in a larger size!
 
 ### Emoji Dictionary
